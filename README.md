@@ -139,7 +139,7 @@ Plateforme full-stack combinant **Machine Learning**, **Business Intelligence** 
 ```
   Objectif  │  Tableau de bord Power BI pour inventaire & coûts IT
   Pipeline  │  SQL Server → SSIS (ETL) →  Power BI
-  ML Layer  │  Prédiction de retour matériel (Python + SHAP/XAI)
+  ML Layer  │  Prédiction de retour matériel (Python)
   Rapport   │  3 pages : Vue d'ensemble · Coûts · Retours équipements
 ```
 
