@@ -36,7 +36,7 @@
 ║  certification: Microsoft PL-300 ✅ (Feb 2026)              ║
 ║  currently   : Building DataMind — ML & BI Platform         ║
 ║  target      : Offshore TN companies | Remote EU roles 🌍   ║
-║  languages   : French | English | Arabic         ║
+║  languages   : French | English |  Arabic                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
