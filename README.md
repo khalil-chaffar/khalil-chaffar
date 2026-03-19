@@ -28,14 +28,14 @@
 
 ```yaml
 ╔══════════════════════════════════════════════════════════════╗
-║  name        : Mohamed Khalil Chaffar                       ║
-║  age         : 23                                           ║
-║  location    : Tunis, Tunisia 🇹🇳                           ║
-║  education   : Business Intelligence — FSEG Tunis           ║
-║  status      : Final Year | PFE @ GAT Assurance             ║
-║  certification: Microsoft PL-300 ✅ (Feb 2026)              ║
-║  currently   : Building DataMind — ML & BI Platform         ║
-║  target      : Offshore TN companies | Remote EU roles 🌍   ║
+║  name        : Mohamed Khalil Chaffar                        ║
+║  age         : 23                                            ║
+║  location    : Tunis, Tunisia 🇹🇳                             ║
+║  education   : Business Intelligence — FSEG Tunis            ║
+║  status      : Final Year | PFE @ GAT Assurance              ║
+║  certification: Microsoft PL-300 ✅ (Feb 2026)               ║
+║  currently   : Building DataMind — ML & BI Platform          ║
+║  target      : Offshore TN companies | Remote EU roles 🌍    ║
 ║  languages   : French | English |  Arabic                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
