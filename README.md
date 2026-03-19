@@ -118,7 +118,7 @@ Plateforme full-stack combinant **Machine Learning**, **Business Intelligence** 
     <tr>
       <td>🎓 <b>Stagiaire PFE</b></td>
       <td>GAT Assurance</td>
-      <td>Power BI · SSAS · SSIS · Python · SHAP/XAI</td>
+      <td>Power BI · SSIS · Python </td>
       <td>2025 – 2026</td>
     </tr>
     <tr>
